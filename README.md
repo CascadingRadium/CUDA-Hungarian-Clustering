@@ -47,6 +47,38 @@ This will now use parameter 10 and cluster the input .csv file into some number 
 
 Sample output images - using datasets in the TestedDataset directory:
 
-
-![data0](https://user-images.githubusercontent.com/53022689/172019687-7ee297d8-9b58-46f9-a477-ce53d1feeef6.png)
-
+<p float="left">
+  <img src="TestedDatasets/data0.png" width="325" title="data0.csv" alt="data0">
+  <img src="TestedDatasets/data1.png" width="325" title="data1.csv" alt="data1">
+  <img src="TestedDatasets/data2.png" width="325" title="data2.csv" alt="data2">
+</p>
+<p float="left">
+  <img src="TestedDatasets/data3.png" width="325" title="data3.csv" alt="data3">
+  <img src="TestedDatasets/data4.png" width="325" title="data4.csv" alt="data4">
+  <img src="TestedDatasets/data5.png" width="325" title="data5.csv" alt="data5">
+</p>
+<p float="left">
+  <img src="TestedDatasets/data6.png" width="325" title="data6.csv" alt="data6">
+  <img src="TestedDatasets/data7.png" width="325" title="data7.csv" alt="data7">
+  <img src="TestedDatasets/data8.png" width="325" title="data8.csv" alt="data8">
+</p>
+<p float="left">
+  <img src="TestedDatasets/data9.png" width="325" title="data9.csv" alt="data9">
+  <img src="TestedDatasets/data10.png" width="325" title="data10.csv" alt="data10">
+  <img src="TestedDatasets/data11.png" width="325" title="data11.csv" alt="data11">
+</p>
+<p float="left">
+  <img src="TestedDatasets/data12.png" width="325" title="data12.csv" alt="data12">
+  <img src="TestedDatasets/data13.png" width="325" title="data13.csv" alt="data13">
+  <img src="TestedDatasets/data14.png" width="325" title="data14.csv" alt="data14">
+</p>
+<p float="left">
+  <img src="TestedDatasets/data15.png" width="325" title="data15.csv" alt="data15">
+  <img src="TestedDatasets/data16.png" width="325" title="data16.csv" alt="data16">
+  <img src="TestedDatasets/data17.png" width="325" title="data17.csv" alt="data17">
+</p>
+<p float="left">
+  <img src="TestedDatasets/data18.png" width="325" title="data18.csv" alt="data18">
+  <img src="TestedDatasets/data19.png" width="325" title="data19.csv" alt="data19">
+  <img src="TestedDatasets/data20.png" width="325" title="data20.csv" alt="data20">
+</p>
