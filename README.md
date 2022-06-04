@@ -53,32 +53,32 @@ Sample output images - using datasets in the TestedDataset directory:
   <img src="TestedDatasets/data2.png" width="32%" title="data2.csv" alt="data2">
 </p>
 <p float="left">
-  <img src="TestedDatasets/data3.png" width="25%" title="data3.csv" alt="data3">
-  <img src="TestedDatasets/data4.png" width="25%" title="data4.csv" alt="data4">
-  <img src="TestedDatasets/data5.png" width="25%" title="data5.csv" alt="data5">
+  <img src="TestedDatasets/data3.png" width="32%" title="data3.csv" alt="data3">
+  <img src="TestedDatasets/data4.png" width="32%" title="data4.csv" alt="data4">
+  <img src="TestedDatasets/data5.png" width="32%" title="data5.csv" alt="data5">
 </p>
 <p float="left">
-  <img src="TestedDatasets/data6.png" width="33%" title="data6.csv" alt="data6">
-  <img src="TestedDatasets/data7.png" width="33%" title="data7.csv" alt="data7">
-  <img src="TestedDatasets/data8.png" width="33%" title="data8.csv" alt="data8">
+  <img src="TestedDatasets/data6.png" width="32%" title="data6.csv" alt="data6">
+  <img src="TestedDatasets/data7.png" width="32%" title="data7.csv" alt="data7">
+  <img src="TestedDatasets/data8.png" width="32%" title="data8.csv" alt="data8">
 </p>
 <p float="left">
-  <img src="TestedDatasets/data9.png" width="33%" title="data9.csv" alt="data9">
-  <img src="TestedDatasets/data10.png" width="33%" title="data10.csv" alt="data10">
-  <img src="TestedDatasets/data11.png" width="33%" title="data11.csv" alt="data11">
+  <img src="TestedDatasets/data9.png" width="32%" title="data9.csv" alt="data9">
+  <img src="TestedDatasets/data10.png" width="32%" title="data10.csv" alt="data10">
+  <img src="TestedDatasets/data11.png" width="32%" title="data11.csv" alt="data11">
 </p>
 <p float="left">
-  <img src="TestedDatasets/data12.png" width="33%" title="data12.csv" alt="data12">
-  <img src="TestedDatasets/data13.png" width="33%" title="data13.csv" alt="data13">
-  <img src="TestedDatasets/data14.png" width="33%" title="data14.csv" alt="data14">
+  <img src="TestedDatasets/data12.png" width="32%" title="data12.csv" alt="data12">
+  <img src="TestedDatasets/data13.png" width="32%" title="data13.csv" alt="data13">
+  <img src="TestedDatasets/data14.png" width="32%" title="data14.csv" alt="data14">
 </p>
 <p float="left">
-  <img src="TestedDatasets/data15.png" width="33%" title="data15.csv" alt="data15">
-  <img src="TestedDatasets/data16.png" width="33%" title="data16.csv" alt="data16">
-  <img src="TestedDatasets/data17.png" width="33%" title="data17.csv" alt="data17">
+  <img src="TestedDatasets/data15.png" width="32%" title="data15.csv" alt="data15">
+  <img src="TestedDatasets/data16.png" width="32%" title="data16.csv" alt="data16">
+  <img src="TestedDatasets/data17.png" width="32%" title="data17.csv" alt="data17">
 </p>
 <p float="left">
-  <img src="TestedDatasets/data18.png" width="33%" title="data18.csv" alt="data18">
-  <img src="TestedDatasets/data19.png" width="33%" title="data19.csv" alt="data19">
-  <img src="TestedDatasets/data20.png" width="33%" title="data20.csv" alt="data20">
+  <img src="TestedDatasets/data18.png" width="32%" title="data18.csv" alt="data18">
+  <img src="TestedDatasets/data19.png" width="32%" title="data19.csv" alt="data19">
+  <img src="TestedDatasets/data20.png" width="32%" title="data20.csv" alt="data20">
 </p>
