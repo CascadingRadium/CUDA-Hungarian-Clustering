@@ -1,3 +1,10 @@
+[![GitHub license](https://img.shields.io/github/license/CascadingRadium/CUDA-Hungarian-Clustering)](https://github.com/CascadingRadium/CUDA-Hungarian-Clustering/blob/main/LICENCE)
+[![GitHub forks](https://img.shields.io/github/forks/CascadingRadium/CUDA-Hungarian-Clustering)](https://github.com/CascadingRadium/CUDA-Hungarian-Clustering/network)
+[![GitHub stars](https://img.shields.io/github/stars/CascadingRadium/CUDA-Hungarian-Clustering)](https://github.com/CascadingRadium/CUDA-Hungarian-Clustering/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/CascadingRadium/CUDA-Hungarian-Clustering)](https://github.com/CascadingRadium/CUDA-Hungarian-Clustering/issues)
+![GitHub repo size](https://img.shields.io/github/repo-size/CascadingRadium/CUDA-Hungarian-Clustering)
+![GitHub last commit](https://img.shields.io/github/last-commit/CascadingRadium/CUDA-Hungarian-Clustering)
+<img src="https://github.com/favicon.ico" align ='right' width ='50'>
 # CUDA-Hungarian-Clustering
 A GPU-Accelerated Clustering Algorithm that uses the Hungarian method
 
