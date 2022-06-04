@@ -48,9 +48,9 @@ This will now use parameter 10 and cluster the input .csv file into some number 
 Sample output images - using datasets in the TestedDataset directory:
 
 <p float="left">
-  <img src="TestedDatasets/data0.png" width="30%" title="data0.csv" alt="data0">
-  <img src="TestedDatasets/data1.png" width="30%" title="data1.csv" alt="data1">
-  <img src="TestedDatasets/data2.png" width="30%" title="data2.csv" alt="data2">
+  <img src="TestedDatasets/data0.png" width="32%" title="data0.csv" alt="data0">
+  <img src="TestedDatasets/data1.png" width="32%" title="data1.csv" alt="data1">
+  <img src="TestedDatasets/data2.png" width="32%" title="data2.csv" alt="data2">
 </p>
 <p float="left">
   <img src="TestedDatasets/data3.png" width="25%" title="data3.csv" alt="data3">
