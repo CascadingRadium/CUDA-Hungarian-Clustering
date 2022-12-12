@@ -16,8 +16,8 @@ Introduction:
   - Does not need any prior knowledge of the number of clusters/groups present in the dataset
   - Results similar to ones obtained from Spectral Clustering (but without the requirement of the number of clusters parameter)
   - Combined the work of two research papers:
-      - A hierarchical clustering algorithm based on the Hungarian method (https://doi.org/10.1016/j.patrec.2008.04.003)
-      - GPU-accelerated Hungarian algorithms for the Linear Assignment Problem (https://doi.org/10.1016/j.parco.2016.05.012)
+      - A hierarchical clustering algorithm based on the Hungarian method, <i>Journal of Pattern Recognition Letters</i> (2008) (https://doi.org/10.1016/j.patrec.2008.04.003)
+      - GPU-accelerated Hungarian algorithms for the Linear Assignment Problem, <i>Journal of Parallel Computing</i> (2016)  (https://doi.org/10.1016/j.parco.2016.05.012)
   - Mainly used to find the number of groups in the dataset with each group being a set of 'similar' rows similar to DBSCAN
 
 Execution instructions:
